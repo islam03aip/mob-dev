@@ -21,3 +21,8 @@ borrow and return books, and add new books.
 | ViewModel | `LibraryViewModel` (books, borrowed ids, messages) |
 | UI separated from state logic | UI in `LibraryScreen.kt`, logic in `LibraryViewModel.kt` |
 | State on rotation | `StateDemoCard`: remember resets, rememberSaveable and ViewModel survive |
+
+## Screenshots
+
+![Main screen](screenshots/screenshot1.png)
+![Add book dialog](screenshots/screenshot2.png)
